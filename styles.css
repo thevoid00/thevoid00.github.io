@@ -16,8 +16,8 @@ p {
 
 body {
   background-color: black;
-  background-image: "Untitled design.png"
+  background-image: "Untitled design.png";
   background-repeat: round;
   background-size: cover;
-  backhround-position: center center;
+  background-position: center center;
 }
