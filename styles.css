@@ -9,10 +9,15 @@ p {
     line-height: 1.5;
     margin-left: 20px;
     margin-right: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #010000;
     padding: 10px;
+    color: white;
 }
 
 body {
   background-color: black;
+  background-image: "Untitled design.png"
+  background-repeat: round;
+  background-size: cover;
+  backhround-position: center center;
 }
