@@ -16,7 +16,7 @@ p {
 
 body {
   background-color: black;
-  background-image: "Untitled design.png";
+  background-image: url("Untitled design.png");
   background-repeat: round;
   background-size: cover;
   background-position: center center;
